@@ -1,0 +1,426 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18511657400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Opening homepage",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-homepage",
+        "after": [
+          {
+            "result": {
+              "duration": 99958,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 148095640,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I have open the browser",
+            "match": {
+              "location": "HomePageSteps.i_have_open_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 23205,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter the web address of the website",
+            "match": {
+              "location": "HomePageSteps.i_enter_the_web_address_of_the_website()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20527,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am able to see the homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_able_to_see_the_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12687530260,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Opening of hotel search page",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-of-hotel-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 17404,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5261992194,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21420,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I go to the hotel option",
+            "match": {
+              "location": "HomePageSteps.i_go_to_the_hotel_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 32129,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I successfully navigate to hotel search page",
+            "match": {
+              "location": "HomePageSteps.i_successfully_navigate_to_hotel_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16047370363,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Opening of Flight search page",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-of-flight-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 20973,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8134542382,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 38823,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I go to the hotel option",
+            "match": {
+              "location": "HomePageSteps.i_go_to_the_hotel_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 22759,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I successfully navigate to Flight search page",
+            "match": {
+              "location": "HomePageSteps.i_successfully_navigate_to_Flight_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 54702834127,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Opening of Flight and Hotel search page",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-of-flight-and-hotel-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 26328,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8283232862,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33022,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I go to the hotel option",
+            "match": {
+              "location": "HomePageSteps.i_go_to_the_hotel_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 32129,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I successfully navigate to Flight and Hotel package search page",
+            "match": {
+              "location": "HomePageSteps.i_successfully_navigate_to_Flight_and_Hotel_package_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12960791848,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Opening of Car search page",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-of-car-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 19634,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6007428589,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15619,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I go to the hotel option",
+            "match": {
+              "location": "HomePageSteps.i_go_to_the_hotel_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 29898,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I successfully navigate to Car search page",
+            "match": {
+              "location": "HomePageSteps.i_successfully_navigate_to_Car_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13801578536,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Opening of Deal search page",
+        "description": "",
+        "id": "as-a-user-i-want-to-go-to-the-homepage;opening-of-deal-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 17404,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4835874011,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.i_am_on_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12941,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I go to the hotel option",
+            "match": {
+              "location": "HomePageSteps.i_go_to_the_hotel_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15172,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I successfully navigate to Deal search page",
+            "match": {
+              "location": "HomePageSteps.i_successfully_navigate_to_Deal_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "As a user I want to go to the homepage",
+    "description": "So that i can see all the deals and options available there",
+    "id": "as-a-user-i-want-to-go-to-the-homepage",
+    "keyword": "Feature",
+    "uri": "HomePage.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@homepage"
+      }
+    ]
+  }
+]
